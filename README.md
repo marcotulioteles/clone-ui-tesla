@@ -2,7 +2,7 @@
 
 UI Clone from website home page of TESLA, made with React, Redux and Styled Components.
 
-![](/public/images/tesla-ui-clone.gif)
+![](/public/tesla-ui-clone.gif)
 
 ## Pre-requisites
 
